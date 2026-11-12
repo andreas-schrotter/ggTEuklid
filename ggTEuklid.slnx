@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ggTEuklid/ggTEuklid.vcxproj" Id="753f7d17-773f-434b-a62f-e59a7e9e08d7" />
+</Solution>
